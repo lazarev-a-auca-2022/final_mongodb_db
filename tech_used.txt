@@ -3,3 +3,5 @@ The docker image that I used to host the mongodb server locally instead of using
 https://hub.docker.com/_/mongo
 
 Example usage can be found in the link.
+
+The mongodb installation did not have any problems after that was done.
