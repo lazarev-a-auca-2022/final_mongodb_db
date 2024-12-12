@@ -1,0 +1,5 @@
+The docker image that I used to host the mongodb server locally instead of using the auca provided one.
+
+https://hub.docker.com/_/mongo
+
+Example usage can be found in the link.
